@@ -11,3 +11,11 @@
 </div>
 
 ### Diagrama de representação das classes dos app´s musica, telefone e internet, onde eles tem a relação de 1:1 e o iPhone é capaz de execultar cada um deles.
+
+## OBS: No diretorio ```src``` se encontra o codigo em que esse diagrama representa.
+
+### 🧑🏾‍💻 Autor
+#### Rommel Santhiago
+https://www.linkedin.com/in/rommelsanthiago
+
+rommel.santhiago@gmail.com
